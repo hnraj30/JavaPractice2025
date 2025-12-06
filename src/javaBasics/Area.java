@@ -9,6 +9,7 @@ public class Area {
 		System.out.println("Here you can find area of a circle or a rectangle");
 		System.out.println("Enter your choice\n 1-Area of circle\n 2-Area of a rectangle");
 		int choice = sc.nextInt();
+		System.out.println(" ");
 		
 		switch(choice)
 		{
