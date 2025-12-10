@@ -8,7 +8,7 @@ public class SampleClassFromTM2 {
 		System.out.println("Adding statement to test Fetch");
 		
 		System.out.println("Adding statement to test pull again");
-
+		System.out.println("Adding statement to test Fetch again");
 
 	}
 
