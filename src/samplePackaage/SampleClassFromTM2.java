@@ -7,7 +7,7 @@ public class SampleClassFromTM2 {
 		System.out.println("Adding this statement to test pull request");
 		System.out.println("Adding statement to test Fetch");
 		
-		System.out.println("Adding statement to test pull");
+		System.out.println("Adding statement to test pull again");
 
 
 	}
